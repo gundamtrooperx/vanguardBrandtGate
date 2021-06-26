@@ -52,7 +52,7 @@ body {
   border-bottom-color: #fff;
 }
 
- .h1 {
+ #h1 {
   text-align: center;
 }
 
@@ -64,6 +64,3 @@ body {
   text-align: center;
 } 
 
-.px-3 {
-  text-align: center;
-}
